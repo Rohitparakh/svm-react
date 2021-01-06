@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d631e1c436f8af294394981183e0b17",
+    "revision": "11482b34bad14962a6a6f4432ac679e0",
     "url": "/svm-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/svm-react/static/css/14.5f9186e7.chunk.css"
   },
   {
-    "revision": "6e364cea5e5ac839f638",
+    "revision": "aab9815bae9e8979a346",
     "url": "/svm-react/static/css/15.5f9186e7.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/svm-react/static/js/14.22749d92.chunk.js"
   },
   {
-    "revision": "6e364cea5e5ac839f638",
-    "url": "/svm-react/static/js/15.5b28b06e.chunk.js"
+    "revision": "aab9815bae9e8979a346",
+    "url": "/svm-react/static/js/15.d64b1b14.chunk.js"
   },
   {
     "revision": "3a3c377a7aa9aed13601",
@@ -296,8 +296,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/svm-react/static/js/main.effb6875.chunk.js"
   },
   {
-    "revision": "2742e7e625f29143553a",
-    "url": "/svm-react/static/js/runtime-main.b84ebc0b.js"
+    "revision": "6064190292ff1b06f5e7",
+    "url": "/svm-react/static/js/runtime-main.30249b8f.js"
   },
   {
     "revision": "01798bc13e33afc36a52f2826638d386",
