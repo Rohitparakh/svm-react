@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82469a3700bad3444408351d92692661",
+    "revision": "cae54149b4672324fa3164323fe999cf",
     "url": "/svm-react/index.html"
   },
   {
-    "revision": "ce47c3b2ae052ea4cb81",
+    "revision": "a17e58f57995ee16b7d0",
     "url": "/svm-react/static/css/10.4de4cebd.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/svm-react/static/css/8.8c603d30.chunk.css"
   },
   {
-    "revision": "5c9d01adedd8d775414c",
-    "url": "/svm-react/static/css/main.4e8a96f9.chunk.css"
+    "revision": "a244ccc6c281e6bf1db2",
+    "url": "/svm-react/static/css/main.73f27c65.chunk.css"
   },
   {
     "revision": "4786eeea9632b4d82ec7",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/svm-react/static/js/1.5bdf318d.chunk.js"
   },
   {
-    "revision": "ce47c3b2ae052ea4cb81",
-    "url": "/svm-react/static/js/10.8c93dd99.chunk.js"
+    "revision": "a17e58f57995ee16b7d0",
+    "url": "/svm-react/static/js/10.55b488e9.chunk.js"
   },
   {
     "revision": "41fabe1505b3f822e718",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/svm-react/static/js/15.de304f3d.chunk.js"
   },
   {
-    "revision": "8d3a274f472e98179d0b",
-    "url": "/svm-react/static/js/16.b7bea026.chunk.js"
+    "revision": "c19c9b0d9f384dfc6b66",
+    "url": "/svm-react/static/js/16.eabb576d.chunk.js"
   },
   {
     "revision": "25827843bdafe077eb3c",
@@ -100,12 +100,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/svm-react/static/js/9.66ee501e.chunk.js"
   },
   {
-    "revision": "5c9d01adedd8d775414c",
+    "revision": "a244ccc6c281e6bf1db2",
     "url": "/svm-react/static/js/main.ffa8b895.chunk.js"
   },
   {
-    "revision": "8de75eaaece89b432338",
-    "url": "/svm-react/static/js/runtime-main.880e9f46.js"
+    "revision": "d986b53f2156dd6c74c2",
+    "url": "/svm-react/static/js/runtime-main.2041b39b.js"
   },
   {
     "revision": "01798bc13e33afc36a52f2826638d386",
