@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/banner/fridge banner.png",
+    "title": "Refrigerator",
+    "subtitle": "Starting at",
+    "price": "₹19,999.00",
+    "link": "/collections/fridge"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/banner/banner bg.png",
+    "title": "Television",
+    "subtitle": "Starting at",
+    "price": "₹24,999.00",
+    "link": "/collections/tv"
+  }
+]

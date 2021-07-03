@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/testimonial/1.jpg",
+    "content": "Great job, I will definitely be ordering again! You guys rock! After using this fridge, my life has been easier!",
+    "customerName": "Rahul",
+    "title": "customer"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/testimonial/2.jpg",
+    "content": "This showroom impressed me on multiple levels. Not able to tell you how happy I am with the salesmen. The experience is worth much more than I paid for.",
+    "customerName": "Ganesh",
+    "title": "customer"
+  }
+]

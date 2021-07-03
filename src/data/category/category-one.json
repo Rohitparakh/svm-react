@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/slider/single-slide-6.png",
+    "subtitle": "TV's",
+    "title": "TV",
+    "link": "/collections/oled",
+    "category":"tv"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/slider/single-slide-3.png",
+    "subtitle": "Fridge",
+    "title": "Refrigerator",
+    "link": "/fridge",
+    "category":"fridge"
+  },
+  {
+    "id": "3",
+    "image": "/assets/img/slider/washing-machine.jpg",
+    "subtitle": "Washing Machine",
+    "title": "Washing Machine",
+    "link": "/washing-machine",
+    "category":"washing machine"
+  },
+  {
+    "id": "4",
+    "image": "/assets/img/slider/oven.jpg",
+    "subtitle": "MicroWave Oven",
+    "title": "MicroWave Oven",
+    "link": "/microWave-oven",
+    "category":"microwave oven"
+  }
+]
